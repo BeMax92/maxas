@@ -1,1 +1,1 @@
-### Maxas a simple data analysis system.
+### Maxas is a simple data analysis system.
